@@ -43,7 +43,7 @@
 ### 常用命令
 - 查看python的版本 : `python -V`
 
-- 查看第三方库的版本 : 举例 `import numpy -> numpy.__version__`
+- 查看第三方库的版本 : 举例 `pip show numpy`
 
 - 列出所有安装的库 : `pip list`
 
@@ -53,7 +53,7 @@
 
 - 安装指定版本的库 : `pip install lib_name==xxx`
 
-- 更新pip : `python.exe -m pip install --upgrade pip`
+- 更新pip : `python -m pip install --upgrade pip`
 
 
 ### 打包注意事项
