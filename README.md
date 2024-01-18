@@ -3,9 +3,9 @@
 ### python3+PyQt5+QtDesigner+pycharm安装及配置+将ui文件转py文件+PyInstaller打包程序
 - 安装python3 : 下载官网的python3最新版本,然后将python.exe的父目录加入到系统变量Path中
 
-- 安装PyQt5 : pip install PyQt5
+- 安装PyQt5 : pip install  PyQt5==5.12
 
-- 安装QtDesigner : pip install PyQt5-tools
+- 安装QtDesigner : pip install PyQt5-tools==5.12.3.1.5
 
 - 安装pycharm : 下载官网的pycharm-community最新版本
 
