@@ -1,7 +1,9 @@
 # <p align = "center"> python_note </p>
 
 ### python3+PyQt5+QtDesigner+pycharm安装及配置+将ui文件转py文件+PyInstaller打包程序
-- 安装python3 : 下载官网的python3最新版本,然后将python.exe的父目录加入到系统变量Path中
+- 安装python : 下载官网的python最新版本后,将C:\Users\Administrator\AppData\Local\Programs\Python\Python36配置到系统变量的Path中
+
+- 配置pip环境变量 : 将C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Scripts配置到系统变量的Path中
 
 - 安装PyQt5 : pip install  PyQt5==5.12
 
