@@ -92,4 +92,9 @@ pip install opencv-python(显示为cv2)
 pip install pycryptodome(显示为Crypto)
 pip install Pillow(显示为PIL)
 ```
+
+### 问题:This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem
+```bash
+sudo apt-get install qt5-default qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+```
 							
